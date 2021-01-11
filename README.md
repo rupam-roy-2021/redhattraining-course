@@ -1,2 +1,0 @@
-# redhattraining-course
-RedHat Training
