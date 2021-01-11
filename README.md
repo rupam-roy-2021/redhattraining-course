@@ -1,0 +1,2 @@
+# redhattraining-course
+RedHat Training
